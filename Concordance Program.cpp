@@ -1,9 +1,3 @@
-/*----------------------------------------------------------------------------------------*/
-/* Name: Aditya Pandhare, Student Number: N17706593 */
-/* Date: November 11, 2021. */
-/* Program: Assignment 3 - Concordance of Text File.cpp */
-/* Description: This program reads text from a text file and generates a Concordance List. */
-/*----------------------------------------------------------------------------------------*/
 #include <iostream>
 #include <iomanip>
 #include <fstream>
